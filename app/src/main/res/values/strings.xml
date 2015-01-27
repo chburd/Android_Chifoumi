@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chifoumi</string>
+    <string name="Pierre">Pierre</string>
+    <string name="Papier">Papier</string>
+    <string name="Ciseau">Ciseaux</string>
+    <string name="your_turn">Votre tour</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="ia_label">l\'IA</string>
+    <string name="result">Resultat</string>
+    <string name="you_played">Vous avez choisi</string>
+
+    <string name="PLAYER_WIN">Vous avez gagne</string>
+    <string name="IA_WIN">Vous avez perdu</string>
+    <string name="DRAW">Match nul</string>
+    <string name="nb_wins">Victoires :</string>
+    <string name="nb_draws">Matchs nuls : </string>
+    <string name="nb_looses">Defaites : </string>
+    <string name="reset">RAZ</string>
+
+
+</resources>
